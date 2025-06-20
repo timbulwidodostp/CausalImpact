@@ -1,6 +1,8 @@
 # CausalImpact
 Inferring causal impact using structural time-series models Use CausalImpact With (In) R Software
 
+https://www.youtube.com/watch?v=vuQYlX3eVUc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
